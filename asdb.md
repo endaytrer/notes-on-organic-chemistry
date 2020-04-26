@@ -1,7 +1,5 @@
 # 有机化学笔记
 
-[toc]
-
 ## 酸碱理论
 
 ### 酸碱类别
@@ -12,7 +10,7 @@
 
 ​    碱：溶于水中产生$OH^-$的物质
 
-2. Bronsted-Lowry acid and base
+2. Brønsted-Lowry acid and base
 
    酸：质子给予者
 
@@ -26,4 +24,8 @@
 
 *From top to bottom, the applicability of the acid-base theory is getting wider and wider.*
 
-### 酸碱
+### 酸碱性
+
+1. Brønsted-Lowry酸的酸性强度
+    - 和氢原子连接原子电负性
+    - 共轭碱的稳定性
