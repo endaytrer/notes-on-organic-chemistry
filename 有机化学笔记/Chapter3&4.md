@@ -17,7 +17,7 @@
 
 ### 1. IUPAC Naming
 
-位号1, 位号2 $\cdots$ - Prefix(es) + Substitute Group Name - Prefix(ex) + Root + ane
+{位号1, 位号2 $\cdots$ - Prefix(es) + Substitute Group Name - } $\cdots$ + {Prefix(es) + Root + ane}
 | Number of Substitute Groups | Prefix |
 | :-------------------------: | :----: |
 |              1              | (none) |
@@ -26,10 +26,12 @@
 |              4              | tetra- |
 |              5              | penta- |
 |              6              | hexa-  |
-|              7              | hepta  |
-|              8              |  octa  |
-|              9              |  nova  |
-|             10              |  deca  |
+|              7              | hepta- |
+|              8              | octa-  |
+|              9              | nova-  |
+|             10              | deca-  |
+---
+![substitutes](images/Chapter3/Substitutes.png)
 ---
 
 | Number of Carbon | Root  |
@@ -51,6 +53,10 @@
 **Suffix of Alkanes:** -ane
 
 Steps:
-1. 选择碳链最长且取代基最多的链作为主链
+1. 选择碳链最长, 支链位号从小到大排序字典序更小, 且取代基更多的链作为主链, 决定Root; 若是环, 则在前缀中加入cyclo.
 2. 选择支链位号从小到大排序字典序最小的方向作为编号方向
 3. 按照支链(除了前缀)的首字母顺序决定支链书写的位次, **其中iso-&neo--也要计入**
+
+Examples:
+
+![3.1example](images/Chapter3/3.1example.png)
